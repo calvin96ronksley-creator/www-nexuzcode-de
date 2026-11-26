@@ -1,0 +1,6 @@
+{
+  "name": "LuminCode",
+  "description": "Futuristischer Code-Editor mit Neon-Syntax-Highlighting für Python 3, JavaScript, TypeScript, HTML, CSS, JSON, Rust und SQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
